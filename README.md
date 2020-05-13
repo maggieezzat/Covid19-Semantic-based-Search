@@ -4,10 +4,10 @@ Semantic-based search using word embedding to help the medical community develop
 
 ## Requirements:
 
-0. `pip install ipython`
-1. `pip install spacy`
-2. `pip install numpy`
-3. `pip install pandas`
-4. `pip install tqdm`
-5. `pip install gensim`
-6. `pip install langdetect`
+- IPython: `pip install ipython`
+- Spacy: `pip install spacy`
+- Numpy: `pip install numpy`
+- Pandas: `pip install pandas`
+- Tqdm: `pip install tqdm`
+- Gensim: `pip install gensim`
+- Langdetect: `pip install langdetect`
